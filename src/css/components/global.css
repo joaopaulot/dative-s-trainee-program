@@ -1,0 +1,30 @@
+/**
+ * components/global.css
+ *
+ * Project-wide styles
+ *
+ * @Author: webrgp
+ * @Date: 2022-04-28 16:07:33
+ * @Last Modified by: webrgp
+ * @Last Modified time: 2022-04-28 16:08:36
+ *
+ */
+
+ .color-header{
+  background-color: gold;
+}
+.color-content{
+  background-color: white;
+}
+.color-subcontent{
+  background-color: violet;
+}
+ .color-footer{
+   background-color: mediumspringgreen;
+
+ }
+.margem{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
