@@ -10,21 +10,30 @@
  *
  */
 
- .color-header{
-  background-color: gold;
-}
-.color-content{
-  background-color: white;
-}
-.color-subcontent{
-  background-color: violet;
-}
- .color-footer{
-   background-color: mediumspringgreen;
-
+ #site-header{
+   background-color: gold;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 20px;
  }
-.margem{
+
+ #site-content{
+  background-color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+ }
+
+ #site-subcontent{
+  background-color: violet;
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 20px;
 }
+
+ #site-footer{
+  background-color: mediumspringgreen;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+ }
